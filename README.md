@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Farkhan Adhitama 👋</h1>
 
-<!--
-**farkhanAdhitama/farkhanAdhitama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <b>Welcome to my GitHub Profile!</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🎓 Bachelor of Computer Science, Universitas Diponegoro  
+- 💻 Passionate in Machine Learning, Artificial Intellegence and Data Science  
+
+---
+
+### ⚡ Tech Stack  
+💻 **Programming & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+
+🛠 **Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farkhanAdhitama&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farkhanAdhitama&theme=tokyonight" width="400"/>
+</p>
+
+---
+
+### 📫 Contact Me  
+📩 Business Email: [mfarkhan.adhitama@gmail.com](mailto:mfarkhan.adhitama@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/muhammad-farkhan-adhitama]](linkedin.com/in/muhammad-farkhan-adhitama)  

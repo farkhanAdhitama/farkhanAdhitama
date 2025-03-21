@@ -10,12 +10,13 @@
 ### 🚀 About Me  
 - 🎓 Bachelor of Computer Science, Universitas Diponegoro  
 - 💻 Passionate in Machine Learning, Artificial Intellegence and Data Science  
-
+- 📄 Build Natural Language Processing and Computer Vision projects  
 ---
 
 ### ⚡ Tech Stack  
 💻 **Programming & Frameworks:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-3776AB?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
 🛠 **Tools & Platforms:**  

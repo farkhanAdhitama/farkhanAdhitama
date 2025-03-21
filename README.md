@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Farkhan Adhitama 👋</h1>
+<h1 align="center">Hi there, I'm Farkhan Adhitama</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -28,9 +28,10 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farkhanAdhitama&show_icons=true&theme=tokyonight" width="400"/>  
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farkhanAdhitama&theme=tokyonight" width="400"/>
 </p>
-
 ---
 
 ### 📫 Contact Me  

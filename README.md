@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farkhanAdhitama&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=farkhanAdhitama&show_icons=true&theme=tokyonight" width="400"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farkhanAdhitama&theme=tokyonight" width="400"/>
 </p>
 
@@ -35,4 +35,4 @@
 
 ### 📫 Contact Me  
 📩 Business Email: [mfarkhan.adhitama@gmail.com](mailto:mfarkhan.adhitama@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/muhammad-farkhan-adhitama]](linkedin.com/in/muhammad-farkhan-adhitama)  
+🔗 LinkedIn: [linkedin.com/in/muhammad-farkhan-adhitama](linkedin.com/in/muhammad-farkhan-adhitama)  
